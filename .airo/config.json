@@ -1,4 +1,0 @@
-{
-  "serve": "npm run preview -- --port $PORT",
-  "dev": "npm run dev -- --port $PORT"
-}
